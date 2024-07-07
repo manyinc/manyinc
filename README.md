@@ -15,7 +15,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manyinc&show_icons=true&theme=dark&title_color=00cfde&text_color=06c270&bg_color=0d1117&hide_border=true&locale=en&layout=compact" alt="manyinc" /></p>
 
-### Languages and Tools
+<br>
+
+<h3 align="left"> Languages and Tools </h3>
 <table>
   <tr>
     <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></td>
