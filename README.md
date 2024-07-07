@@ -3,13 +3,13 @@
 <h3 align="center">I'm a developer specializing in Python, with a focus on automation, cybersecurity, and data management.</h3>
 <br>
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="350" src="https://github.com/manyinc/manyinc/blob/main/assets/nav_img.jpg?raw=true">
+<img align="right" alt="Coding" width="300" src="https://github.com/manyinc/manyinc/blob/main/assets/nav_img.jpg?raw=true">
  
  - 📫 How to reach me **mzarzycki.dev@gmail.com**
 
- - 👨‍💻 All of my projects are available at [https://github.com/manyinc?tab=repositories](https://github.com/manyinc?tab=repositories)
+ - 👨‍💻 All of my projects are available at<br> [https://github.com/manyinc?tab=repositories](https://github.com/manyinc?tab=repositories)
   
- - 📄 Know about my experiences [https://github.com/manyinc/manyinc/blob/main/assets/CV_Mateusz_Zarzycki.pdf](https://github.com/manyinc/manyinc/blob/main/assets/CV_Mateusz_Zarzycki.pdf)
+ - 📄 Know about my experiences<br> [https://github.com/manyinc/manyinc/blob/main/assets/CV_Mateusz_Zarzycki.pdf](https://github.com/manyinc/manyinc/blob/main/assets/CV_Mateusz_Zarzycki.pdf)
 
 <br>
 
@@ -17,7 +17,7 @@
 
 <br>
 
-<h3 align="left"> Languages and Tools </h3>
+<h3 align="center"> Languages and Tools </h3>
 <table>
   <tr>
     <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></td>
