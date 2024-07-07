@@ -17,7 +17,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manyinc&show_icons=true&theme=dark&title_color=00cfde&text_color=06c270&bg_color=0d1117&hide_border=true&locale=en&layout=compact" alt="manyinc" /></p>
 
-<br>
+<br><br>
 
 <h3 align="center"> Languages and Tools </h3>
 <table align="center">
