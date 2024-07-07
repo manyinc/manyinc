@@ -14,7 +14,7 @@
 <br>
 
 ### Languages and Tools
-<table width="550">
+<table width="350">
   <tr>
     <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></td>
