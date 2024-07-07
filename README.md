@@ -6,10 +6,12 @@
 <img align="right" alt="Coding" width="300" src="https://github.com/manyinc/manyinc/blob/main/assets/nav_img.jpg?raw=true">
  
  - 📫 How to reach me **mzarzycki.dev@gmail.com**
-
- - 👨‍💻 All of my projects are available at<br> [https://github.com/manyinc?tab=repositories](https://github.com/manyinc?tab=repositories)
+   
+ - 📄 Know about my experiences [CV_Mateusz_Zarzycki](https://github.com/manyinc/manyinc/blob/main/assets/CV_Mateusz_Zarzycki.pdf)
+   
+ - 👨‍💻 All of my projects are available at [My repository](https://github.com/manyinc?tab=repositories)
   
- - 📄 Know about my experiences<br> [https://github.com/manyinc/manyinc/blob/main/assets/CV_Mateusz_Zarzycki.pdf](https://github.com/manyinc/manyinc/blob/main/assets/CV_Mateusz_Zarzycki.pdf)
+
 
 <br>
 
