@@ -7,8 +7,6 @@
  
  - 📫 How to reach me **mzarzycki.dev@gmail.com**
    
- - 📄 Know about my experiences [CV_Mateusz_Zarzycki](https://github.com/manyinc/manyinc/blob/main/assets/CV_Mateusz_Zarzycki_EN_20241025.pdf)
-   
  - 👨‍💻 All of my projects are available at [My repository](https://github.com/manyinc?tab=repositories)
   
 
